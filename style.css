@@ -277,7 +277,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/img/header-bg3.jpg');
+    background-image: url('https://brianwgreen.github.io/greenhsu//img/header-bg3.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -666,7 +666,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('/img/map-image.png');
+    background-image: url('https://brianwgreen.github.io/greenhsu//img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
